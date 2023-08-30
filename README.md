@@ -2,9 +2,6 @@
 Predicting the severity of lodging in dry peas using machine learning and RGB sensor
 
 
-Project Title
-
-[Predicting the severity of lodging in dry peas using machine learning and RGB sensor]
 
 Description
 
