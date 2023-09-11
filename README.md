@@ -21,7 +21,7 @@ Installation
 
 ARCGIS PRO
 
-[Download the tool and csv folder, put csv folder in your C drive.]
+[Download the tool and rf model (rf_model2.pkl).]
 
 
 [Go to the insert tab of your ArcGIS PRO project]
@@ -43,9 +43,9 @@ ARCGIS PRO
 
 [Double click and open the script]
 
- ![image](https://github.com/AliBgisrs/Predicting-Lodging-severity-of-pea-using-machine-learning/assets/109620013/00cb6bb6-784d-49f0-a845-03d5298f47bd)
+![image](https://github.com/AliBgisrs/Predicting-Lodging-severity-of-pea-using-machine-learning/assets/109620013/0fb142fd-568b-411b-94c3-4266b0bf94be)
 
-[Call the input file (your new dataset that contain the value for RED, GREEN, values). Note: You should have an excel file and your data should be saved on the first sheet of that excel file. Your file should have the columns with the name of RED, GREEN, and BLUE with the format type of float 64.
+[Push the model directory to select the folder that rf_model2.pkl is located on there. Call the new data path to select a new excel dataset (your new dataset that contain the value for RED, GREEN, values). Note: You should have an excel file and your data should be saved on the first sheet of that excel file. Your file should have the columns with the name of RED, GREEN, and BLUE with the format type of float 64. Finally, define an output folder to save the results.
 
 ![image](https://github.com/AliBgisrs/Predicting-Lodging-severity-of-pea-using-machine-learning/assets/109620013/f1cfc60d-0155-4c70-95a2-d63476dad109)
 
