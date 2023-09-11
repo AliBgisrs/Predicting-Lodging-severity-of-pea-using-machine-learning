@@ -51,21 +51,18 @@ ARCGIS PRO
 
  
 
-Before running the tool ,you should paste csv folder in your C drive directory to save the results on there. 
-
-![image](https://github.com/AliBgisrs/Predicting-Lodging-severity-of-pea-using-machine-learning/assets/109620013/aad279c9-904e-4497-96f8-bed64f44c6e7)
 
  
 Usage
 
 If you want to predict the severity of lodging in dry pea just using the RED, GREEN, and BLUE values, this tool helps you
 
-![image](https://github.com/AliBgisrs/Predicting-Lodging-severity-of-pea-using-machine-learning/assets/109620013/48a07759-d225-4b26-aaa1-adacc12d7b5a)
+![image](https://github.com/AliBgisrs/Predicting-Lodging-severity-of-pea-using-machine-learning/assets/109620013/191c7034-b293-4cef-b6cb-326f3f4aae83)
 
   
-After running the tool, a new excel file with the name of rf_results.xlsx can be seen in the csv folder.
+After running the tool, a new excel file with the name of rf_results.xlsx can be seen in your directory folder.
 
-![image](https://github.com/AliBgisrs/Predicting-Lodging-severity-of-pea-using-machine-learning/assets/109620013/8ba0af8a-4d34-4c0c-ace5-2fb59ac400f6)
+![image](https://github.com/AliBgisrs/Predicting-Lodging-severity-of-pea-using-machine-learning/assets/109620013/22a4204b-6e41-4c9b-9cb2-67bca59a465c)
 
  
 If you open that file, a new column has been created that shows the values of lodging severity from 0 to 2. Zero value means no lodging, 1 means slight lodging and 2 means severe lodging. The accuracy of the model that supports this script (Random Forest) is 89%.
