@@ -5,7 +5,7 @@ Predicting the severity of lodging in dry peas using machine learning and RGB se
 
 Description
 
-[If you want to predict the severity of lodging in dry pea just using the RED, GREEN, and BLUE values and machine learning, this tool helps you.]
+If you wish to predict the severity of lodging in dry peas using only the RED, GREEN, and BLUE values along with machine learning, this tool is designed to assist you
 
 ![image](https://github.com/AliBgisrs/Predicting-Lodging-severity-of-pea-using-machine-learning/assets/109620013/697875e3-3dd1-45a1-8557-1762dd98b2be)
 
