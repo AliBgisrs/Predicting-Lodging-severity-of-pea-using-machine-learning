@@ -7,6 +7,8 @@ Predicting the severity of lodging in dry peas using machine learning, RGB, and 
 If you aim to forecast the severity of lodging in dry peas exclusively using RED, GREEN, and BLUE values with a Random Forest model, please utilize the 'LodgingSeverityPrediction' tool. Conversely, if your goal is to predict lodging scores in dry peas using RED, GREEN, BLUE, red edge, NIR bands, and crop height values in conjunction with an XGBOOST model, we recommend using the 'LodgingScorePrediction' tool.
 
 
+Note: Please utilize the 'LodgingSeverityPrediction' tool in conjunction with 'rf_model2.pkl,' and use the 'LodgingScorePrediction' tool along with 'XGBOOST_model.pkl.'
+
 ![image](https://github.com/AliBgisrs/Predicting-Lodging-severity-of-pea-using-machine-learning/assets/109620013/697875e3-3dd1-45a1-8557-1762dd98b2be)
 
   
